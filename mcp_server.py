@@ -52,3 +52,6 @@ def edit_document(
 
 if __name__ == "__main__":
     mcp.run(transport="stdio")
+
+
+# mcp dev mcp_server.py in terminal
